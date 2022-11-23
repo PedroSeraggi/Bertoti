@@ -37,10 +37,19 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 - Compatibilidade com outros servidores e terminais.
 
 
+### Diagrama de Caso de Uso
+
+<img src="https://github.com/PedroSeraggi/Bertoti/blob/main/Engenharia_de_software/imagens/diag1.jpeg" width=500 height=500>
+
 ### Diagrama UML(Unified Modeling Language)
 
 
-<img src="" width=70% height=350>
+<img src="https://github.com/PedroSeraggi/Bertoti/blob/main/Engenharia_de_software/imagens/diag2.jpeg" width=500 height=500>
+
+### Diagrama de Entidade de Relacionamento(DER)
+
+
+<img src="https://github.com/PedroSeraggi/Bertoti/blob/main/Engenharia_de_software/imagens/diag3.jpeg" width=500 height=500>
 
 
 
