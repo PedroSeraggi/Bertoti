@@ -108,7 +108,7 @@ As informações de navegação, que indicam a posição do usuário dentro de u
 ![image](https://github.com/PedroSeraggi/Bertoti/assets/102552390/30a740ea-ba9e-44f9-96ae-e19b9e32f16c)
 <hr>
   
-<h1>Responsividade  (AAA)<h1>
+<h1>Responsividade  (AAA)</h1>
 <h3>Adaptável</h3>
 
 Ao criar conteúdo, é importante considerar a apresentação em diferentes formatos e dispositivos, garantindo que a informação e a estrutura sejam preservadas independentemente da forma como o conteúdo é apresentado. Isso pode incluir a criação de layouts simplificados ou outras formas de apresentação alternativas.
@@ -123,7 +123,6 @@ Ao criar conteúdo, é importante considerar a apresentação em diferentes form
 <hr>
   
 <h1>Ajuda (AAA)</h1>
-
 <h3>Assistência de entrada</h3>
 
 A ajuda para o usuário só é necessária quando o rótulo de um elemento não é suficiente para descrever completamente a sua funcionalidade. Quando a ajuda é disponibilizada, ela deve ser facilmente acessível e óbvia para o usuário, permitindo que ele obtenha suporte sempre que precisar.
