@@ -11,9 +11,9 @@
         <td>Alto acoplamento</td>
         <td>Permite que objetos se registrem para receber notificações imediatas sobre eventos ocorrendo em um objeto observado.</td>
         <td>Minimiza o acoplamento entre objetos, resultando em um sistema altamente ágil e responsivo.</td>
-        <td>Utilizado em Java para atualizar interfaces de usuário de forma automática e em tempo real, informar assinantes de eventos em sistemas de mensagens, manter a consistência de dados distribuídos, entre outras finalidades.</td>
+        <td>Utilizado em Java para atualizar interfaces de usuário de forma automática e em tempo real, informar assinantes de eventos em sistemas de mensagens, manter a consistência de dados distribuídos, entre outras         finalidades.</td>
     </tr>
-  
+   </tr>
     <tr>
         <td>Strategy</td>
         <td>Herança</td>
@@ -21,7 +21,7 @@
         <td>Ajuda a evitar a complicação de decisões incorporadas, tornando o código mais adaptável.</td>
         <td>É empregado em Java para gerenciar estratégias de direcionamento de rede, escolha de algoritmos de criptografia, definição de políticas de autenticação, entre outras aplicações.</td>
     </tr>
-
+ </tr>
     <tr>
         <td>Composite </td>
         <td>Complexidade significativa no código e manutenção desafiadora</td>
@@ -30,7 +30,7 @@
         <td>Utilizado em Java para representar estruturas de documentos, organizar componentes de interfaces de usuário, construir árvores de categorias, entre outras aplicações.</td>
     </tr>
 
-
+ </tr>
     <tr>
         <td>Singleton</td>
         <td>Múltiplas instâncias da classe aparentam compartilhar o mesmo estado</td>
@@ -39,7 +39,7 @@
         <td>Empregado em Java para gerenciar recursos compartilhados, como conexões de banco de dados, caches de objetos, registros de log centralizados, configurações globais de aplicativos, entre outros usos.</td>
     </tr>
 
-
+</tr>
     <tr>
         <td>Facade</td>
         <td>Uma única classe ou objeto assume muitas responsabilidades, tornando-o difícil de entender e modificar</td>
