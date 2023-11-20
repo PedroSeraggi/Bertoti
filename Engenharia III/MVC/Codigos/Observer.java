@@ -1,3 +1,5 @@
+import java.util.List;
+
 public interface Observer {
-    void update(Subject subject);
+    public void atualizar(List<Funcionario> funcionario);
 }
